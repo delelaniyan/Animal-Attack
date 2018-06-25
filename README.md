@@ -1,3 +1,3 @@
 # Animal-Attack
 
-[Click Here](https://delelaniyan.github.io/Animal-Attack/animal.js)
+[Click Here](https://delelaniyan.github.io/Animal-Attack/)
