@@ -1,4 +1,11 @@
-noStroke();
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  
+  noStroke();
 var x = 204;
 var y = 225;
 var faceSize = 282;
@@ -23,3 +30,4 @@ ellipse(x + faceSize / 4, y-faceSize/8, eyes, eyes);
 fill(230, 225, 221);
 rect(x-21, y+faceSize/13, faceSize*3/13, faceSize/5);
 
+}
